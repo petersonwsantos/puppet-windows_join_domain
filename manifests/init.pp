@@ -7,7 +7,7 @@
 # @example
 #   include windows_join_domain
 #
-class windowsjoindomain (
+class windows_join_domain (
   String  $domain,
   String  $username,
   String  $password,
