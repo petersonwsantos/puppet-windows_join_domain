@@ -9,6 +9,7 @@
 #
 
 class windows_join_domain (
+
   String  $domain,
   String  $username,
   String  $password,
