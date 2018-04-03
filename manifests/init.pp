@@ -7,11 +7,8 @@
 # @example
 #   include windows_join_domain
 #
-<<<<<<< HEAD
+
 class windows_join_domain (
-=======
-class windowsjoindomain (
->>>>>>> 9c5f3103feedb9953d6f6be4efcb65a311076288
   String  $domain,
   String  $username,
   String  $password,
